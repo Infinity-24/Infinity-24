@@ -5,7 +5,6 @@
 
 - 🌱 I’m currently exploring **about space technology and elctronic stuffs**
 
-<img align = "right" alt= "Explore" width= "400" src ="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 - 👯 I’m working as a member in **Team Anant | IEEE**
 
